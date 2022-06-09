@@ -1,0 +1,185 @@
+[
+	{
+		"name": "type: bug",
+		"color": "e11d21",
+		"aliases": [
+			"bug"
+		],
+		"description": "Something isn't working"
+	},
+	{
+		"name": "type: breaking",
+		"color": "990000",
+		"aliases": [
+			"breaking",
+			"breaking-change"
+		],
+		"description": "Breaks the compatibility with previous release"
+	},
+	{
+		"name": "type: maintenance",
+		"color": "fbca04",
+		"aliases": [
+			"maintenance",
+			"refactor",
+			"refactoring",
+			"testing",
+			"test",
+			"dependencies"
+		],
+		"description": "Housekeeping and minor changes"
+	},
+	{
+		"name": "type: feature",
+		"color": "009800",
+		"aliases": [
+			"enhancement",
+			"feature"
+		],
+		"description": "New feature or request"
+	},
+	{
+		"name": "type: question",
+		"color": "cc317c",
+		"aliases": [
+			"question"
+		],
+		"description": "Further information is requested"
+	},
+	{
+		"name": "type: discussion",
+		"color": "cc317c",
+		"aliases": [
+			"discussion"
+		],
+		"description": "Open subject which requires several interactions"
+	},
+	{
+		"name": "type: documentation",
+		"color": "207de5",
+		"aliases": [
+			"documentation"
+		],
+		"description": "Improvements or additions to documentation"
+	},
+	{
+		"name": "priority: low",
+		"color": "3ba5cc",
+		"aliases": [
+			"low priority"
+		]
+	},
+	{
+		"name": "priority: medium",
+		"color": "f0da4a"
+	},
+	{
+		"name": "priority: high",
+		"color": "de8d31",
+		"aliases": [
+			"bug - prioritario"
+		]
+	},
+	{
+		"name": "priority: critical",
+		"color": "dd3030"
+	},
+	{
+		"name": "status: good first issue",
+		"color": "bfe5bf",
+		"aliases": [
+			"beginner-friendly",
+			"beginner",
+			"good-starter-issue",
+			"starter-issue",
+			"good first issue"
+		],
+		"description": "Easy onboarding and low complexity issue"
+	},
+	{
+		"name": "status: completed",
+		"color": "#006b75",
+		"aliases": [
+			"completed",
+			"developed"
+		],
+		"description": "All tasks are completed and developed"
+	},
+	{
+		"name": "status: in progress",
+		"color": "#cccccc",
+		"aliases": [
+			"in progress",
+			"in-progress"
+		],
+		"description": "On-going work"
+	},
+	{
+		"name": "status: on hold",
+		"color": "#e11d21",
+		"aliases": [
+			"on hold",
+			"on-hold"
+		],
+		"description": "On pause or waiting for something"
+	},
+	{
+		"name": "status: pending",
+		"color": "#fef2c0",
+		"aliases": [
+			"pending"
+		],
+		"description": "Accepted and scheduled"
+	},
+	{
+		"name": "status: review needed",
+		"color": "#fbca04",
+		"aliases": [
+			"review needed",
+			"review-needed"
+		],
+		"description": "Explicit non-automatic verification is needed"
+	},
+	{
+		"name": "status: testing",
+		"color": "#fbca04",
+		"aliases": [
+			"testing"
+		],
+		"description": "Explicit non-automatic verification is needed"
+	},
+	{
+		"name": "help wanted",
+		"color": "bfe5bf",
+		"aliases": [
+			"help wanted"
+		],
+		"description": "Extra attention is needed"
+	},
+	{
+		"name": "invalid",
+		"color": "cccccc",
+		"aliases": [
+			"invalid",
+			"not valid"
+		],
+		"description": "This doesn't seem right"
+	},
+	{
+		"name": "wontfix",
+		"color": "cccccc",
+		"aliases": [
+			"wontfix",
+			"wont-fix"
+		],
+		"description": "This will not be worked on"
+	},
+	{
+		"name": "duplicate",
+		"color": "cccccc",
+		"aliases": [
+			"duplicate"
+		],
+		"description": "This issue or pull request already exists"
+	}
+]
