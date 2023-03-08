@@ -1,1 +1,34 @@
 # ERMES Project
+
+## Descrizione
+
+"Applicativi per funzioni di segnalamento ferroviario" - Dimostratori di ambiente di progettazione dei sistemi ACC/ACCM
+
+
+## Sviluppatori
+
+* Basciani Francesco,
+* Lombardi Tiziano,
+* Cingolani Davide,
+* Perelli Andrea,
+* Ricci Matteo,
+* Di Francesco Stefano,
+* Rea Gianluca,
+* Valdeburgo Mario
+
+
+
+## Thanks to:
+
+<table style="text-align: center">
+<tr><td><img src="../.github/imgs/rfi-logo.jpeg" alt="RFI logo" height="100px" /></td>
+<td></td>
+<td><img src="../.github/imgs/disim-logo.png" alt="DISIM logo" height="100px" /></td></tr>
+<tr><td><img src="../.github/imgs/emf-logo.png" alt="EMF logo" width="150px" /></td>
+<td><img src="../.github/imgs/yakindu-logo.png" alt="Yakindu logo" width="150px" /></td>
+<td><img src="../.github/imgs/javafx-logo.png" alt="JavaFX logo" width="150px" /></td></tr>
+</table>
+
+## Credits
+
+&copy; 2019 - 2023, DISIM - University of L'Aquila, Model-Driven Engineering group
