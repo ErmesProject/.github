@@ -21,12 +21,12 @@
 ## Thanks to:
 
 <table style="text-align: center">
-<tr><td><img src="../.github/imgs/rfi-logo.jpeg" alt="RFI logo" height="100px" /></td>
+<tr><td><img src="https://github.com/ErmesProject/.github/blob/main/.github/imgs/rfi-logo.jpeg" alt="RFI logo" height="100px" /></td>
 <td></td>
-<td><img src="../.github/imgs/disim-logo.png" alt="DISIM logo" height="100px" /></td></tr>
-<tr><td><img src="../.github/imgs/emf-logo.png" alt="EMF logo" width="150px" /></td>
-<td><img src="../.github/imgs/yakindu-logo.png" alt="Yakindu logo" width="150px" /></td>
-<td><img src="../.github/imgs/javafx-logo.png" alt="JavaFX logo" width="150px" /></td></tr>
+<td><img src="https://github.com/ErmesProject/.github/blob/main/.github/imgs/disim-logo.png" alt="DISIM logo" height="100px" /></td></tr>
+<tr><td><img src="https://github.com/ErmesProject/.github/blob/main/.github/imgs/emf-logo.png" alt="EMF logo" width="150px" /></td>
+<td><img src="https://github.com/ErmesProject/.github/blob/main/.github/imgs/yakindu-logo.png" alt="Yakindu logo" width="150px" /></td>
+<td><img src="https://github.com/ErmesProject/.github/blob/main/.github/imgs/javafx-logo.png" alt="JavaFX logo" width="150px" /></td></tr>
 </table>
 
 ## Credits
