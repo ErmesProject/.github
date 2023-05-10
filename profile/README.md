@@ -6,8 +6,9 @@
 
 
 ## Sviluppatori
+Il team del DISIM @ Univaq è mutato nel tempo contando un gran numero di collaboratori. Riportiamo qui la formazione attuale e i collaboratori che si sono avvicendati nel tempo.
 
-* Basciani Francesco,
+<b>Team Attuale:</b>
 * Lombardi Tiziano,
 * Cingolani Davide,
 * Perelli Andrea,
@@ -15,7 +16,12 @@
 * Di Francesco Stefano,
 * Rea Gianluca,
 * Valdeburgo Mario
+* Intrevado Michele
+* Santone Domenico
 
+<b>Hanno collaborato:</b>
+* Basciani Francesco,
+* Andreoli Lorenzo
 
 
 ## Thanks to:
