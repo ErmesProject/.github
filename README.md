@@ -55,7 +55,7 @@ Come importare il progetto in Eclipse:
 
 ## Sviluppatori
 
-* Basciani Francesco,
+<b>Team Attuale:</b>
 * Lombardi Tiziano,
 * Cingolani Davide,
 * Perelli Andrea,
@@ -63,7 +63,12 @@ Come importare il progetto in Eclipse:
 * Di Francesco Stefano,
 * Rea Gianluca,
 * Valdeburgo Mario
+* Intrevado Michele
+* Santone Domenico
 
+<b>Hanno collaborato:</b>
+* Basciani Francesco,
+* Andreoli Lorenzo
 
 
 ## Acknowledgments
