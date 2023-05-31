@@ -21,6 +21,7 @@ Il team del DISIM @ Univaq è mutato nel tempo contando un gran numero di collab
 
 <b>Hanno collaborato:</b>
 * Basciani Francesco,
+* Franzago Mirco,
 * Andreoli Lorenzo
 
 
