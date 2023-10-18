@@ -12,8 +12,6 @@ Il team del DISIM @ Univaq è mutato nel tempo contando un gran numero di collab
 * Lombardi Tiziano,
 * Cingolani Davide,
 * Perelli Andrea,
-* Ricci Matteo,
-* Di Francesco Stefano,
 * Rea Gianluca,
 * Valdeburgo Mario
 * Intrevado Michele
@@ -22,7 +20,9 @@ Il team del DISIM @ Univaq è mutato nel tempo contando un gran numero di collab
 <b>Hanno collaborato:</b>
 * Basciani Francesco,
 * Franzago Mirco,
-* Andreoli Lorenzo
+* Andreoli Lorenzo,
+* Ricci Matteo,
+* Di Francesco Stefano
 
 
 ## Thanks to:
