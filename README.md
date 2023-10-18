@@ -59,8 +59,6 @@ Come importare il progetto in Eclipse:
 * Lombardi Tiziano,
 * Cingolani Davide,
 * Perelli Andrea,
-* Ricci Matteo,
-* Di Francesco Stefano,
 * Rea Gianluca,
 * Valdeburgo Mario
 * Intrevado Michele
@@ -68,8 +66,9 @@ Come importare il progetto in Eclipse:
 
 <b>Hanno collaborato:</b>
 * Basciani Francesco,
-* Andreoli Lorenzo
-
+* Andreoli Lorenzo,
+* Ricci Matteo,
+* Di Francesco Stefano
 
 ## Acknowledgments
 
