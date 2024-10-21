@@ -6,24 +6,23 @@
 
 
 ## Sviluppatori
-Il team del DISIM @ Univaq è mutato nel tempo contando un gran numero di collaboratori. Riportiamo qui la formazione attuale e i collaboratori che si sono avvicendati nel tempo.
+Il team del DISIM @ Univaq è mutato nel tempo contando un gran numero di collaboratori. Riportiamo qui tutti i collaboratori che si sono avvicendati nel tempo.
 
-<b>Team Attuale:</b>
-* Lombardi Tiziano,
-* Cingolani Davide,
-* Perelli Andrea,
-* Rea Gianluca,
+<b>Hanno collaborato:</b>
+* Basciani Francesco
+* Lombardi Tiziano
+* Cingolani Davide
+* Franzago Mirco
+* Andreoli Lorenzo
+* Pichilli Lorenzo
+* Perelli Andrea
+* Ricci Matteo
+* Di Francesco Stefano
+* Rea Gianluca
 * Valdeburgo Mario
 * Intrevado Michele
 * Santone Domenico
-
-<b>Hanno collaborato:</b>
-* Basciani Francesco,
-* Franzago Mirco,
-* Andreoli Lorenzo,
-* Ricci Matteo,
-* Di Francesco Stefano
-
+* Ricci Silvia
 
 ## Thanks to:
 
@@ -38,4 +37,4 @@ Il team del DISIM @ Univaq è mutato nel tempo contando un gran numero di collab
 
 ## Credits
 
-&copy; 2019 - 2023, DISIM - University of L'Aquila, Model-Driven Engineering group
+&copy; 2019 - 2024, DISIM - University of L'Aquila, Model-Driven Engineering group
